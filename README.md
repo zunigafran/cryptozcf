@@ -20,4 +20,4 @@ This project is to explain the code flow for a user using CryptoZ.
   - Wallet
   - Exchange
     - Add Money
- - Personal Settings
+  - Personal Settings
