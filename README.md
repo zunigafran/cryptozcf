@@ -23,11 +23,11 @@ This project is demonstate my ability to create dynamic and engaging digital exp
     - Add Money
   - Personal Settings
  
-##Tools I will be using
-*React JS
-*Vite
-*ChatGPT
-*Relume AI
-*AI Colors
-*Figma
-*Hostinger
+## Tools I will be using
+* React JS
+* Vite
+* ChatGPT
+* Relume AI
+* AI Colors
+* Figma
+* Hostinger
